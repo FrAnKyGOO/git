@@ -4,3 +4,4 @@ print('main')
 # poom
 print('poom')
 print('Atikan hathan')
+print('salod')
