@@ -2,7 +2,7 @@
 print('main')
 # frank
 print('frank')
-print("kittisak")
+print("kittisak Nuntasen")
 # poom
 print('poom')
 print('Atikan hathan')
