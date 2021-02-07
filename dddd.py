@@ -7,3 +7,4 @@ print("Go")
 # poom
 print('poom')
 print('Atikan hathan')
+print('salod')
