@@ -1,5 +1,6 @@
 # main
 print('main')
+print('main01')
 # frank
 print('frank')
 print("kittisak Nuntasen")
