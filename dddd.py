@@ -2,6 +2,5 @@
 print('main')
 # frank
 # poom
-print('poom')
 print('Atikan hathan')
-print('salod')
+print('61020818')
