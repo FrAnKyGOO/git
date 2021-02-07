@@ -1,7 +1,6 @@
 # main
 print('main')
 # frank
-print('frank')
 print("kittisak Nuntasen")
-print("Go")
+print("61020571")
 # poom
