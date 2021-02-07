@@ -3,5 +3,5 @@ print('main')
 # frank
 print('frank')
 print("kittisak Nuntasen")
-print("kittisak")
+print("Go")
 # poom
